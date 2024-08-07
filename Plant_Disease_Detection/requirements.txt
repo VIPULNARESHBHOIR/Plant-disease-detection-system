@@ -1,5 +1,8 @@
+python = 3.
 tensorflow = 2.16.2
 numpy
 pandas
 pillow
-jupyter/colab
+
+software:
+jupyter/colab/vscode
