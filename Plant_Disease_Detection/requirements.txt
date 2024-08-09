@@ -1,4 +1,4 @@
-python = 3.
+python = 3.10
 tensorflow = 2.16.2
 numpy
 pandas
