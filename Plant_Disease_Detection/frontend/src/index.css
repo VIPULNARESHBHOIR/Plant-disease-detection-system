@@ -1,0 +1,31 @@
+body {
+	margin: 0;
+	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+		'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+		sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.MuiPaper-root.MuiAppBar-root {
+    background: #00a7a4c9;
+    box-shadow: none;
+}
+
+code {
+	font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+		monospace;
+}
+
+.MuiDropzoneArea-root {
+	background-color: transparent !important;
+
+}
+.MuiDropzoneArea-text, .MuiDropzoneArea-icon {
+  color: rgb(0, 0, 0) !important;
+}
+
+.MuiTypography-root {
+    color: rgb(255, 255, 255);
+	font-weight: bolder;
+}
